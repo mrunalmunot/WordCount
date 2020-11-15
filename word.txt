@@ -1,0 +1,7 @@
+Mrunal Munot
+A computer is a machine that accepts data as input, 
+processes that data using programs, and outputs the 
+processed data as information. Many computers can 
+store and retrieve information using hard drives. 
+Computers can be connected together to form networks, 
+allowing connected computers to communicate with each other.
